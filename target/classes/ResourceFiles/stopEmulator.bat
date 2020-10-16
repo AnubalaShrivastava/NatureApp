@@ -1,0 +1,1 @@
+adb -s demo-mobile emu kill
