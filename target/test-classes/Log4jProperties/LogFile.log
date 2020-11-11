@@ -902,3 +902,13 @@
 2020-10-14 09:52:56,407 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - Check out is pass
 2020-10-14 09:52:57,934 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - Initializing test
 2020-10-14 09:53:04,336 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - logout from app is pass
+2020-10-14 10:34:14,620 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - Initializing test
+2020-10-14 10:35:46,946 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - Login in to the app is pass
+2020-10-14 10:35:47,933 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - Initializing test
+2020-10-14 10:35:56,352 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - From Home page I should be able to select category is pass
+2020-10-14 10:35:59,116 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - Initializing test
+2020-10-14 10:36:21,024 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - adding product into cart is pass
+2020-10-14 10:36:22,009 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - Initializing test
+2020-10-14 10:37:09,082 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - Check out is pass
+2020-10-14 10:37:10,568 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - Initializing test
+2020-10-14 10:37:17,565 - com.C2TA.natural.stepdefinitions.ServiceHooks -INFO - logout from app is pass
